@@ -9,7 +9,7 @@ description = "An experimental templating engine for XML"
 homepage = "https://github.com/ChinmayVivek/xtemplars"
 repository = "https://github.com/ChinmayVivek/xtemplars"
 rust-version = "1.56"
-keywords = ["xtemplars", "xml", "templating", "template engine", "xml templating"]
+keywords = ["xtemplars", "xml", "templating", "template-engine", "xml-templating"]
 categories = ["template-engine", "data-structures","rendering"]
 
 
