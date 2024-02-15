@@ -1,0 +1,18 @@
+[package]
+name = "xtemplars"
+version = "0.0.1"
+edition = "2021"
+authors = ["Chinmay Vivek <chinmay.vivek@gmail.com>"]
+license = "MIT OR Apache-2.0"
+readme = "crates-io.md"
+description = "An experimental templating engine for XML"
+homepage = "https://github.com/ChinmayVivek/xtemplars"
+repository = "https://github.com/ChinmayVivek/xtemplars"
+rust-version = "1.56"
+keywords = ["xtemplars", "xml", "templating", "template engine", "xml templating"]
+categories = ["template-engine", "data-structures","rendering"]
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
